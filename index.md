@@ -1,7 +1,7 @@
 ---
 layout: base.html
-title: AI SEO Thoughts
-description: Mattakumar SEO Thoughts
+title: AI SEO Thought
+description: Mattakumar SEO Thought
 date: 2025-06-20
 pagination:
   data: collections.posts
