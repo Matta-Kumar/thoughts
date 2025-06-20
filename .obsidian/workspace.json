@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be4773471c24bc11",
+  "active": "ca19e6bd86960d27",
   "lastOpenFiles": [
+    "posts/Untitled",
     "_site/index.html",
     "_site/posts/new-post/index.html",
     "_site/posts/new-post",
@@ -184,7 +185,6 @@
     "_site/assets/images",
     "_site/assets/custom.css",
     "_site/assets",
-    "_site",
     "posts/a-new-post.md",
     "posts/lorem-ipsum.md",
     "posts/etiam-ligula.md",
