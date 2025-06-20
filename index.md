@@ -14,7 +14,7 @@ All notes being published here from Obsidian using [Eleventy](https://11ty.dev/)
 <div>
 {% for post in posts %}
 <ul>
-    <li><a href="https://mattakumar.com{{ post.url }}">{{ post.data.title }}</a></li>
+    <li><a href="https://www.mattakumar.com{{ post.url }}">{{ post.data.title }}</a></li>
 </ul>
 {% endfor %}
 

@@ -7,7 +7,7 @@ permalink: "sitemap.xml"
   {%- for item in collections.all %}
     {%- unless item.data.ignore == true %}
       <url>
-        <loc>https://mattakumar.com/thoughts{{ item.url }}</loc>
+        <loc>https://www.mattakumar.com/thoughts{{ item.url }}</loc>
         <lastmod>{{ item.date | date: '%Y-%m-%d' }}</lastmod>
       </url>
     {%- endunless %}
