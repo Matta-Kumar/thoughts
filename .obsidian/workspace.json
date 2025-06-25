@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/new-post.md",
+                "file": "posts/AI Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new-post"
+              "title": "AI Search"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "b09755066607fe44",
   "lastOpenFiles": [
+    "templates/new-post.md",
     "posts/new-post.md",
     "posts/AI Search.md",
-    "templates/new-post.md",
     "index.md",
     "sitemap.md",
     "_site/index.html",
